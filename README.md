@@ -3,18 +3,14 @@ Internet Download Manager 具有智能下载逻辑加速器，具有智能动态
 下载速度加速
 由于其智能动态文件分段技术，Internet Download Manager 最多可将下载速度提高 5 倍。与其他下载管理器和加速器不同，Internet Download Manager 在下载过程中动态地对下载的文件进行分段，并重复使用可用连接而无需额外的连接和登录阶段，以实现最佳的加速性能。
 
-
 从您喜欢的网站下载文件
 安装“IDM 集成模块”浏览器扩展后，只要继续上网，您就会惊讶地发现从您最喜爱的网站下载您想要的一切是多么容易。
-
 
 支持所有流行的浏览器
 IDM 无缝集成到 Microsoft Edge、Google Chrome、Mozilla Firefox、Opera、Internet Explorer、Safari、MSN Explorer、AOL、Mozilla Firebird、Avant Browser、Maxthon 和所有其他流行的浏览器，以自动处理您的下载。
 
-
 一键轻松下载
 当您在浏览器中单击下载链接时，IDM 将接管下载并加速下载。您无需执行任何特殊操作，只需像往常一样浏览 Internet。IDM 将捕获您的下载并加速它们。IDM 支持 HTTP、FTP、HTTPS 和 MMS 协议。
-
 
 深色主题
 IDM 深色主题在其大部分 UI 中显示深色表面。它被设计为默认（或浅色）主题的补充模式。深色主题降低了屏幕发出的亮度，同时仍满足最低颜色对比度。它有助于通过减少眼睛疲劳、根据当前照明条件调整亮度以及在黑暗环境中促进屏幕使用同时节省电量来改善视觉人体工程学。
