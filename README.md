@@ -1,4 +1,3 @@
-Internet-Download-Manager
 Internet Download Manager 具有智能下载逻辑加速器，具有智能动态文件分段和安全分段下载技术，可加速您的下载。
 
 下载速度加速
